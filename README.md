@@ -1,7 +1,7 @@
 # hello-world
 Helllo world. GitHub guides.
 
-I am learning to use Github.
+I am learning to use Github. This is called "the GitHub Flow".
 
 Now I know that I can create many repositories. A repository seems like a project when you start a new coding.
 
